@@ -33,4 +33,4 @@ No final do curso, você aprenderá como adicionar colaboradores no seu reposit�
 3. Breve Revisão.
 
 ## Referências
-Para a elaboração do material, foram utilizadas as IAs Gemini e Claude.
+Para a elaboração do material e consulta, foram utilizadas as IAs Gemini e Claude.
