@@ -32,4 +32,5 @@ No final do curso, você aprenderá como adicionar colaboradores no seu reposit�
 2. Como ter colaboradores em seu repositório.
 3. Breve Revisão.
 
-
+## Referências
+Para a elaboração do material, foram utilizadas as IAs Gemini e Claude.
