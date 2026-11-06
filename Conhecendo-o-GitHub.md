@@ -1,6 +1,5 @@
 # Conhecendo o GitHub e criação de conta
 
-# Conhecendo o GitHub e criação de conta
 
 Guia simples para quem está começando.
 
