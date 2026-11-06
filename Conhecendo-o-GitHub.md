@@ -116,8 +116,6 @@ Em repositório público, também é possível compartilhar apenas o **link** da
 
 primeiro passo é criar uma conta
 
-criar uma conta no GitHub é bem facil 
-
 para criar a conta
 primeiro entramos no site e na pagina inicial localizamos na área superior o **sign.** **in**
 <img width="1900" height="986" alt="image" src="https://github.com/user-attachments/assets/0f94cb55-3584-487f-a64d-e9d148ba5d09" />
