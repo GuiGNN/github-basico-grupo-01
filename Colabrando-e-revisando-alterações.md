@@ -40,14 +40,6 @@ Siga o roteiro abaixo para convidar sua equipe usando apenas o navegador:
 
 ---
 
-## Onde encontrar as opções na tela?
-
-Para ilustrar o processo na interface web do GitHub:
-
-![Aba Settings (Engrenagem) no menu superior do repositório](image_agent_tag_16105619901846154739)
-
----
-
 ## Do Outro Lado: Como o Convidado Acessa o Projeto?
 
 Assim que o administrador envia o convite, o colega convidado precisa aceitá-lo para desbloquear as permissões de edição. Há duas maneiras principais de fazer isso pelo navegador:
