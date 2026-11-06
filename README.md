@@ -1,3 +1,3 @@
-# Como-usar-o-GitHub
+# Teste
 Este repositório é um tutorial explçicativo de como usar o Git e o GitHub.
 oi
